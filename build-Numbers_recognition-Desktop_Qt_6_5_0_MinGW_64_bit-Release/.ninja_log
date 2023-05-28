@@ -1,0 +1,13 @@
+# ninja log v5
+13	246	7069109942616660	Numbers_recognition_autogen/timestamp	e07b053f7bed5d4f
+13	246	7069109942616660	Numbers_recognition_autogen/mocs_compilation.cpp	e07b053f7bed5d4f
+300	1336	7068932238890805	CMakeFiles/Numbers_recognition.dir/MultilayerPerceptron.cpp.obj	41239ac0647dcb36
+4	596	7069109955699886	build.ninja	b08e6f8c3d044a70
+1026	3276	7069085578487171	CMakeFiles/Numbers_recognition.dir/main.cpp.obj	f914453755de1b0b
+13	246	7069109942616660	C:/Users/eklip/lipinae/build-Numbers_recognition-Desktop_Qt_6_5_0_MinGW_64_bit-Release/Numbers_recognition_autogen/timestamp	e07b053f7bed5d4f
+13	246	7069109942616660	C:/Users/eklip/lipinae/build-Numbers_recognition-Desktop_Qt_6_5_0_MinGW_64_bit-Release/Numbers_recognition_autogen/mocs_compilation.cpp	e07b053f7bed5d4f
+774	2328	7068900205059952	CMakeFiles/Numbers_recognition.dir/Helper.cpp.obj	93c613998df69d74
+745	2767	7050839688106945	CMakeFiles/Numbers_recognition.dir/drawingboard.cpp.obj	ec3df92a684acb4c
+1017	3426	7069085579980035	CMakeFiles/Numbers_recognition.dir/Numbers_recognition_autogen/mocs_compilation.cpp.obj	51f6ae643fdafb45
+275	3862	7069109812465965	CMakeFiles/Numbers_recognition.dir/mainwindow.cpp.obj	d62475a117b502e7
+3863	4157	7069109815371833	Numbers_recognition.exe	d0d6f4c3cdf22baa
