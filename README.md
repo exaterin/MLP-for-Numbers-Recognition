@@ -15,7 +15,10 @@ The best achieved accuracy is 90.8%, with the configuration stored in `Configura
 - Draw a handwritten number using a simple drawing interface.
 - Predict the drawn number using a trained MLP model.
 - Clear the drawing area to try different numbers.
-- High accuracy in recognizing handwritten digits. 
+- High accuracy in recognizing handwritten digits.
+- Choose the model for the testing.
+- Possibility to train the model with given configuration.
+- Number can be drawn in any place of the drawing interface.
 - Accuracy: 90.8%
 
 ## Requirements
@@ -30,6 +33,10 @@ The best achieved accuracy is 90.8%, with the configuration stored in `Configura
 2. Use your mouse or stylus to draw a handwritten number in the drawing area.
 3. Click the "Predict" button to let the MLP model predict the drawn number. The predicted number will be displayed on the screen.
 4. To draw a new number, click the "Clear" button to erase the drawing area and start again.
+
+
+## Application interface
+![image_2023-05-29_21-19-02](https://github.com/exaterin/MLP-for-Numbers-Recognition/assets/87270011/ae32a786-d89f-45e8-a9fb-58f49b0c16c6)
 
 
 
